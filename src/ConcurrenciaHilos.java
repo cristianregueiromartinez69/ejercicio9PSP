@@ -15,7 +15,7 @@ public class ConcurrenciaHilos implements Runnable {
     public ConcurrenciaHilos(int tipoOperacion) {
         this.tipoOperacion = tipoOperacion;
     }
-
+//
     /**
      * Metodo para iniciar el hilo
      */
